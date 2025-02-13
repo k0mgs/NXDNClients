@@ -559,7 +559,7 @@
 31264	nxdn.dudetronics.com	41400
 
 # 31291 Southwest Missouri
-31291 nxdn.ddns.me  41401
+31291  nxdn.ddns.me  41401
 
 # 31340 Central New Jersey
 31340	nxdn-31340.k2dls.net	41400
